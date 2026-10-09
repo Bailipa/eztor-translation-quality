@@ -18,6 +18,10 @@ This small, dependency-free TypeScript module scores vocabulary translations usi
 
 The result includes a score from 0 to 100, a letter grade, and every factor used to reach it.
 
+## Live demo
+
+[Open the interactive demo](https://bailipa.github.io/eztor-translation-quality/) · [Try the examples](examples/)
+
 ## Example
 
 ```ts

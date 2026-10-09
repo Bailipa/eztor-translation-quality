@@ -18,6 +18,10 @@
 
 评分结果包含 0 到 100 的分数、A 到 D 的等级，以及每个判断因素。
 
+## 在线 Demo
+
+[打开交互式 Demo](https://bailipa.github.io/eztor-translation-quality/) · [查看示例](examples/)
+
 ## 运行测试
 
 ```bash
