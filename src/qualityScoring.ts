@@ -1,4 +1,4 @@
-import { isSentence } from './sentenceDetector'
+import { isSentence } from './sentenceDetector.js'
 
 export interface QualityFactors {
   hasPhonetic: boolean
